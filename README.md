@@ -33,3 +33,5 @@ How to use?
 -Let it load for a few seconds and use the Insert key to toggle the menu. 
 
 -For developers, build the source in Debug | x64.
+
+WARNİNG:  if there is anything missing, please let me know.
