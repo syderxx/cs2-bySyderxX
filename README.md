@@ -22,7 +22,7 @@ Visuals
 
    ~Health
 
-   ~FOV changer (shitty)
+   ~FOV changer 
 
 How to use?
 
