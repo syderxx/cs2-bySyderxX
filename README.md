@@ -35,3 +35,5 @@ How to use?
 -For developers, build the source in Debug | x64.
 
 WARNİNG:  if there is anything missing, please let me know.
+
+NOTE: Some of the software codes are quotations!
